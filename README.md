@@ -22,6 +22,7 @@ Crafted with 💻 Python + ☠️ pyfiglet + 🛠️ Nmap — all weaponized in 
 - sudo chmod +x IP_Scanner.py
 ## Run it
 - ./IP_Scanner.py
+- python3 IP_Scanner.py
 
 ---
 ## ⚠️ Disclaimer
